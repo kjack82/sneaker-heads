@@ -75,5 +75,5 @@ Utilize the following design specifications below with the properties above to a
 ![Stretch Final Image](/StretchImage.png)
 
 - Get all the images and text to be in the same row
-
+Testing this works
 ![Rows Final Image](/Rows.png)
